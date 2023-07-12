@@ -1,5 +1,5 @@
 ## Hi there :3
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usarana&layout=compact)
+![Top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usarana&&show_icons=true&theme=dark)
 
 My name is Mitko and I'm from Bulgaria. I love C#, it's the language I started coding in
 
