@@ -3,7 +3,7 @@
 
 My name is Mitko and I'm from Bulgaria. I love C#, it's the language I started coding in
 
-I also code in Rust, Go, C, C++, Python, Svelte, HTML, CSS and TS
+I also know Rust, C++, Python, Svelte, HTML, CSS and JS
 
 I'm the person who started Sova (also Sova Software), a small team with the goal of making people's lives easier
 
